@@ -1,3 +1,4 @@
+#made from automatetheboringstuff chapter 13
 import PyPDF2
 pdf1File = open("File1.pdf","rb")
 pdf2File = open("File2.pdf","rb")
